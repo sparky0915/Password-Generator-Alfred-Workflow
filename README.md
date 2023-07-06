@@ -3,7 +3,8 @@ Easy-to-remember password generator with numeric upper and lower case letters an
 
 # Alfred 随机密码生成器
 
-这是一个用Python 3编写的Alfred工作流，旨在帮助你生成包含英文字母大小写、数字和符号的16位随机密码。该工作流通过结合易记的单词和随机字符来创建密码，以提高密码的可记忆性。
+这是一个用Python 3编写的Alfred Workflow，旨在帮助你生成包含**英文字母大小写**、**数字**和**符号（最多两个符号）**的16位随机密码。
+该Workflow通过结合易记的单词和随机字符来创建密码，以提高密码的可记忆性。
 
 ## 安装
 
@@ -17,7 +18,7 @@ Easy-to-remember password generator with numeric upper and lower case letters an
 1. 下载此存储库中的Workflow文件到本地计算机。
 2. 双击安装执行。
 3. 打开Alfred，在Workflow设置中找到 "Password Generator" Workflow。
-4. 设置快捷键或通过Alfred的关键字触发Workflow，初始的处罚关键词是"pwg"。
+4. 设置快捷键或通过Alfred的关键字触发Workflow，初始的关键词是"pwg"，生成的密码将自动复制到剪切板。
 
 ## 贡献
 
