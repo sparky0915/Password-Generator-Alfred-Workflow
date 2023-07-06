@@ -1,7 +1,7 @@
 # Alfred-Password-Generator
 Easy-to-remember password generator with numeric upper and lower case letters and characters (up to two)
 
-# Alfred 随机密码生成器
+# Alfred 随机密码生成器Workflow （Python 3编写）
 
 这是一个用Python 3编写的Alfred Workflow，旨在帮助你生成包含**英文字母大小写**、**数字** 和 **符号（最多两个符号）** 的16位随机密码。
 该Workflow通过结合易记的单词和随机字符来创建密码，以提高密码的可记忆性。
@@ -28,7 +28,7 @@ Easy-to-remember password generator with numeric upper and lower case letters an
 
 本项目采用AGPL-3.0许可。
 
-# Alfred Random Password Generator
+# Alfred Random Password Generator Workflow in Python 3
 
 This is an Alfred Workflow written in Python 3, designed to help you generate 16-character random passwords that include **uppercase and lowercase letters**, **numbers**, and **symbols (up to two symbols)**. The workflow creates passwords by combining memorable words with random characters to improve password memorability.
 
