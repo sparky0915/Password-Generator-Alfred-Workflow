@@ -27,3 +27,29 @@ Easy-to-remember password generator with numeric upper and lower case letters an
 ## 许可证
 
 本项目采用AGPL-3.0许可。
+
+# Alfred Random Password Generator
+
+This is an Alfred Workflow written in Python 3, designed to help you generate 16-character random passwords that include **uppercase and lowercase letters**, **numbers**, and **symbols (up to two symbols)**. The workflow creates passwords by combining memorable words with random characters to improve password memorability.
+
+## Installation
+
+First, make sure you have the following requirements installed:
+
+- [Python 3](https://www.python.org/downloads/): Used to run the password generation script - newer versions of macOS come with it preinstalled.
+- [Alfred](https://www.alfredapp.com/): Used to execute the workflow.
+
+Next, follow these steps for installation:
+
+1. Download the Workflow file from this repository to your local computer.
+2. Double-click to install and execute.
+3. Open Alfred and go to Workflow settings to find the "Password Generator" Workflow.
+4. Set a shortcut or trigger the Workflow through Alfred's keyword. The initial keyword is "pwg", and the generated password will be automatically copied to the clipboard.
+
+## Contributions
+
+If you have any suggestions or improvements for this project, feel free to contribute code or raise issues. Please submit issues and requests to this repository.
+
+## License
+
+This project is licensed under AGPL-3.0.
